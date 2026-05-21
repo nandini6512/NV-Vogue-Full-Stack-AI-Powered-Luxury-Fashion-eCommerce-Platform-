@@ -1,0 +1,63 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply font-sans antialiased selection:bg-brand-gold selection:text-brand-dark;
+  }
+  
+  h1, h2, h3, h4, h5, h6 {
+    @apply font-display font-semibold tracking-tight;
+  }
+}
+
+@layer components {
+  /* Premium Glassmorphic Card Container */
+  .glass-card {
+    @apply bg-white/75 dark:bg-brand-indigo/60 backdrop-blur-md border border-gray-200/50 dark:border-gray-800/40 shadow-glass-light dark:shadow-glass;
+  }
+
+  /* Luxury Golden Gradient Button styling */
+  .btn-gold {
+    @apply bg-gradient-to-r from-brand-gold via-brand-goldlight to-brand-gold text-brand-dark font-display font-medium px-6 py-2.5 rounded-full transition-all duration-300 transform hover:scale-105 active:scale-95 shadow-md hover:shadow-glow hover:brightness-105;
+  }
+
+  /* Secondary Charcoal Outline Button */
+  .btn-outline-gold {
+    @apply border-2 border-brand-gold text-brand-gold hover:bg-brand-gold hover:text-brand-dark font-display font-medium px-6 py-2.5 rounded-full transition-all duration-300 transform hover:scale-105 active:scale-95;
+  }
+
+  /* Floating UI hover dynamic effects */
+  .card-hover {
+    @apply hover:-translate-y-2 hover:shadow-2xl transition-all duration-500 ease-out;
+  }
+}
+
+/* Custom premium scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  @apply bg-gray-100 dark:bg-brand-dark;
+}
+
+::-webkit-scrollbar-thumb {
+  @apply bg-brand-gold/40 hover:bg-brand-gold/60 rounded-full transition-colors duration-300;
+}
+
+/* Animations */
+@keyframes pulseGlow {
+  0%, 100% {
+    box-shadow: 0 0 15px rgba(197, 168, 128, 0.4);
+  }
+  50% {
+    box-shadow: 0 0 25px rgba(197, 168, 128, 0.7);
+  }
+}
+
+.glow-animation {
+  animation: pulseGlow 3s infinite;
+}

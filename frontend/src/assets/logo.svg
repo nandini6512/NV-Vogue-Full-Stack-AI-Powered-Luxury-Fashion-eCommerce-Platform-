@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100%" height="100%">
+  <defs>
+    <linearGradient id="goldGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#c5a880" />
+      <stop offset="50%" stop-color="#e5cda8" />
+      <stop offset="100%" stop-color="#9a7e58" />
+    </linearGradient>
+  </defs>
+  <!-- Sleek premium luxury geometric hexagon frame -->
+  <polygon points="50,5 90,28 90,72 50,95 10,72 10,28" fill="none" stroke="url(#goldGrad)" stroke-width="2" />
+  
+  <!-- Stylized Monogram N and V -->
+  <path d="M 28 70 L 28 30 L 45 55 L 45 30 L 62 30 L 62 70 L 45 70 L 45 45 L 28 70 Z" fill="url(#goldGrad)" />
+  <path d="M 45 58 L 50 72 L 55 58 Z" fill="url(#goldGrad)" />
+</svg>

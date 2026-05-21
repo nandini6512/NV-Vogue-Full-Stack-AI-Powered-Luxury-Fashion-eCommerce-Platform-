@@ -1,0 +1,392 @@
+[
+  {
+    "name": "NV Heritage Tweed Overcoat",
+    "description": "Artisanally tailored tweed overcoat crafted from an ultra-soft premium wool-blend. Features double-breasted buttoning, notched lapels, and a wind-resistant inner lining. Perfectly suited for winter styles and business meetings.",
+    "price": 289,
+    "discount": 15,
+    "images": [
+      "https://images.unsplash.com/photo-1544022613-e87ca75a784a?q=80&w=800&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1539571696357-5a69c17a67c6?q=80&w=800&auto=format&fit=crop"
+    ],
+    "category": "Men",
+    "sizes": ["M", "L", "XL"],
+    "colors": ["Grey", "Navy", "Charcoal"],
+    "rating": 4.8,
+    "numReviews": 28,
+    "countInStock": 15,
+    "trending": true
+  },
+  {
+    "name": "NV Executive Cashmere Sweater",
+    "description": "Luxurious, incredibly soft 100% cashmere sweater designed with a classic crewneck. Boasts ribbed hem structures and elastic cuffs, maintaining a refined structure after years of use. Cozy yet lightweight.",
+    "price": 175,
+    "discount": 0,
+    "images": [
+      "https://images.unsplash.com/photo-1614975058789-41316d0e2e9c?q=80&w=800&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1620799140408-edc6dcb6d633?q=80&w=800&auto=format&fit=crop"
+    ],
+    "category": "Men",
+    "sizes": ["S", "M", "L", "XL"],
+    "colors": ["Beige", "Black", "Off-White"],
+    "rating": 4.7,
+    "numReviews": 18,
+    "countInStock": 22,
+    "trending": false
+  },
+  {
+    "name": "NV Urban Leather Bomber Jacket",
+    "description": "Sleek metropolitan style bomber jacket meticulously crafted from supple lambskin leather. Outfitted with heavy-duty silver YKK zippers, snap-button collar tabs, and deep internal pockets. Elevates any casual style.",
+    "price": 320,
+    "discount": 10,
+    "images": [
+      "https://images.unsplash.com/photo-1551028719-00167b16eac5?q=80&w=800&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1495105787522-5334e3ffa0ef?q=80&w=800&auto=format&fit=crop"
+    ],
+    "category": "Men",
+    "sizes": ["M", "L", "XL"],
+    "colors": ["Black", "Brown"],
+    "rating": 4.9,
+    "numReviews": 42,
+    "countInStock": 8,
+    "trending": true
+  },
+  {
+    "name": "NV Aurora Satin Evening Gown",
+    "description": "Breathtaking premium floor-length gown tailored in shimmering liquid satin. Designed with a elegant cowl neckline, high thigh slit, and an adjustable corset-lace back. Destined to turn heads at formal galas and cocktail parties.",
+    "price": 245,
+    "discount": 20,
+    "images": [
+      "https://images.unsplash.com/photo-1595777457583-95e059d581b8?q=80&w=800&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1566174053879-31528523f8ae?q=80&w=800&auto=format&fit=crop"
+    ],
+    "category": "Women",
+    "sizes": ["XS", "S", "M", "L"],
+    "colors": ["Crimson", "Emerald", "Navy"],
+    "rating": 4.9,
+    "numReviews": 35,
+    "countInStock": 12,
+    "trending": true
+  },
+  {
+    "name": "NV Monaco Linen Summer Dress",
+    "description": "Breathable, lightweight 100% organic linen wrap dress featuring mid-length puff sleeves and a playful side-bow tie. Keeps you cool, crisp, and effortlessly elegant on sun-drenched afternoons and seaside resort stays.",
+    "price": 135,
+    "discount": 5,
+    "images": [
+      "https://images.unsplash.com/photo-1572804013309-59a88b7e92f1?q=80&w=800&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1612336307429-8a898d10e223?q=80&w=800&auto=format&fit=crop"
+    ],
+    "category": "Women",
+    "sizes": ["S", "M", "L"],
+    "colors": ["White", "Beige", "Sky-Blue"],
+    "rating": 4.6,
+    "numReviews": 21,
+    "countInStock": 25,
+    "trending": false
+  },
+  {
+    "name": "NV Parisian Silk Wrap Blouse",
+    "description": "Elegantly flowing wrap blouse woven from the finest mulberry silk. Accented with wide bell-sleeves, a plunge neckline, and dynamic waist ties. A versatile classic transitioning from office to candlelit dinners.",
+    "price": 149,
+    "discount": 0,
+    "images": [
+      "https://images.unsplash.com/photo-1485462537746-965f33f7f6a7?q=80&w=800&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1539109136881-3be0616acf4b?q=80&w=800&auto=format&fit=crop"
+    ],
+    "category": "Women",
+    "sizes": ["XS", "S", "M", "L"],
+    "colors": ["Blush", "Ivory", "Black"],
+    "rating": 4.8,
+    "numReviews": 14,
+    "countInStock": 18,
+    "trending": true
+  },
+  {
+    "name": "NV Playtime Organic Tee",
+    "description": "Ultra-soft t-shirt woven from 100% organic combed cotton, ensuring a non-irritating feeling for delicate child skin. Enhanced with fun colorful dye styling and secure flatlock stitching.",
+    "price": 28,
+    "discount": 10,
+    "images": [
+      "https://images.unsplash.com/photo-1519457431-44ccd64a579b?q=80&w=800&auto=format&fit=crop"
+    ],
+    "category": "Kids",
+    "sizes": ["2T", "4T", "6Y", "8Y"],
+    "colors": ["Yellow", "Aqua", "Coral"],
+    "rating": 4.7,
+    "numReviews": 9,
+    "countInStock": 40,
+    "trending": false
+  },
+  {
+    "name": "NV Tiny Explorer Denim Overall",
+    "description": "Adorable, heavy-duty toddler overalls in classic stone-washed denim fabric. Fitted with adjustable button buckle suspenders, detailed utility patch pockets, and secure metal side fasteners.",
+    "price": 49,
+    "discount": 0,
+    "images": [
+      "https://images.unsplash.com/photo-1503919545889-aef636e10ad4?q=80&w=800&auto=format&fit=crop"
+    ],
+    "category": "Kids",
+    "sizes": ["2T", "3T", "4T", "6Y"],
+    "colors": ["Classic-Blue", "Light-Wash"],
+    "rating": 4.8,
+    "numReviews": 15,
+    "countInStock": 30,
+    "trending": true
+  },
+  {
+    "name": "NV Blossom Meadow Dress",
+    "description": "Beautiful multi-tiered floral lace dress detailed with a whimsical tulle skirt layer and dynamic shoulder bows. Inner lined with soft, sweat-wicking organic modal for comfortable wear.",
+    "price": 58,
+    "discount": 15,
+    "images": [
+      "https://images.unsplash.com/photo-1607453813894-21f7b5cf201a?q=80&w=800&auto=format&fit=crop"
+    ],
+    "category": "Kids",
+    "sizes": ["3T", "4T", "6Y", "8Y"],
+    "colors": ["Pink", "Lilac"],
+    "rating": 4.5,
+    "numReviews": 11,
+    "countInStock": 16,
+    "trending": false
+  },
+  {
+    "name": "NV Sculpt High-Rise Slim Jeans",
+    "description": "High-density stretch-infused shapewear denim jeans that lift, mold, and hold curves beautifully. Designed with a sleek high-waisted rise and a tailored slim-fit ankle cut. Won't sag or bag out.",
+    "price": 89,
+    "discount": 10,
+    "images": [
+      "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?q=80&w=800&auto=format&fit=crop"
+    ],
+    "category": "Jeans",
+    "sizes": ["26", "28", "30", "32"],
+    "colors": ["Dark-Indigo", "Midnight-Black"],
+    "rating": 4.7,
+    "numReviews": 56,
+    "countInStock": 35,
+    "trending": true
+  },
+  {
+    "name": "NV Distressed Vintage Denim",
+    "description": "Vintage straight-leg denim jeans featuring curated distressed knee shredding and hand-brushed raw edge finishes. Gives an authentic retro thrift-store aesthetic with premium structured cotton comfort.",
+    "price": 95,
+    "discount": 0,
+    "images": [
+      "https://images.unsplash.com/photo-1582552938357-32b906df40cd?q=80&w=800&auto=format&fit=crop"
+    ],
+    "category": "Jeans",
+    "sizes": ["28", "30", "32", "34"],
+    "colors": ["Light-Blue", "Stone-Wash"],
+    "rating": 4.5,
+    "numReviews": 34,
+    "countInStock": 20,
+    "trending": false
+  },
+  {
+    "name": "NV Metro Cargo Utility Jeans",
+    "description": "Heavyweight premium cotton cargo jeans integrated with deep snap-button side utility pockets, knee stitching seams, and adjustable drawstring ankle cuffs. Excellent streetwear attire.",
+    "price": 110,
+    "discount": 20,
+    "images": [
+      "https://images.unsplash.com/photo-1565084888279-aca607ecad0f?q=80&w=800&auto=format&fit=crop"
+    ],
+    "category": "Jeans",
+    "sizes": ["30", "32", "34", "36"],
+    "colors": ["Olive-Drab", "Charcoal-Grey"],
+    "rating": 4.6,
+    "numReviews": 27,
+    "countInStock": 14,
+    "trending": true
+  },
+  {
+    "name": "NV Crochet Meadow Crop Top",
+    "description": "Exquisite hand-crocheted sleeveless crop top patterned with beautiful daisy floral elements. Woven in thick, high-quality organic cotton thread. Creates a gorgeous pairing with high-waisted linen pants.",
+    "price": 65,
+    "discount": 10,
+    "images": [
+      "https://images.unsplash.com/photo-1509631179647-0177331693ae?q=80&w=800&auto=format&fit=crop"
+    ],
+    "category": "Tops",
+    "sizes": ["S", "M", "L"],
+    "colors": ["Cream", "Sage-Green"],
+    "rating": 4.8,
+    "numReviews": 23,
+    "countInStock": 19,
+    "trending": true
+  },
+  {
+    "name": "NV Boho Chic Floral Blouse",
+    "description": "Flowy floral georgette blouse detailed with metallic gold pinstripe threads, a split neck tassel tie-closure, and airy balloon sleeves. Captures a sophisticated bohemian wanderlust charm.",
+    "price": 79,
+    "discount": 0,
+    "images": [
+      "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?q=80&w=800&auto=format&fit=crop"
+    ],
+    "category": "Tops",
+    "sizes": ["XS", "S", "M", "L"],
+    "colors": ["Crimson-Multi", "Black-Floral"],
+    "rating": 4.6,
+    "numReviews": 31,
+    "countInStock": 28,
+    "trending": false
+  },
+  {
+    "name": "NV Minimalist Ribbed Tee",
+    "description": "High-elastic fine-ribbed crewneck tee woven from silky modal-cotton fibers. Hugs coordinates seamlessly, acting as a clean foundation layer under blazers and jackets. Retains structural stretch perfectly.",
+    "price": 35,
+    "discount": 0,
+    "images": [
+      "https://images.unsplash.com/photo-1521572267360-ee0c2909d518?q=80&w=800&auto=format&fit=crop"
+    ],
+    "category": "Tops",
+    "sizes": ["S", "M", "L", "XL"],
+    "colors": ["White", "Black", "Heather-Grey"],
+    "rating": 4.7,
+    "numReviews": 49,
+    "countInStock": 50,
+    "trending": false
+  },
+  {
+    "name": "NV Radiance Botanical Face Oil",
+    "description": "Fast-absorbing, ultra-nourishing elixir formulated with organic rosehip seed, jojoba, and cold-pressed squalane. Deeply hydrates skin layers, fading dark spots and delivering a youthful velvet glow.",
+    "price": 54,
+    "discount": 10,
+    "images": [
+      "https://images.unsplash.com/photo-1608248597481-496100c8c836?q=80&w=800&auto=format&fit=crop"
+    ],
+    "category": "Beauty",
+    "sizes": ["30ml"],
+    "colors": ["Amber-Fluid"],
+    "rating": 4.9,
+    "numReviews": 68,
+    "countInStock": 45,
+    "trending": true
+  },
+  {
+    "name": "NV Velvet Rose Eau De Parfum",
+    "description": "Captivating artisanal perfume combining velvety Damascus rose petal notes with warm cedarwood, black pepper accents, and creamy vanilla base tones. Leaves a sophisticated, long-lasting signature scent trail.",
+    "price": 95,
+    "discount": 0,
+    "images": [
+      "https://images.unsplash.com/photo-1541643600914-78b084683601?q=80&w=800&auto=format&fit=crop"
+    ],
+    "category": "Beauty",
+    "sizes": ["50ml", "100ml"],
+    "colors": ["Clear-Glass"],
+    "rating": 4.8,
+    "numReviews": 72,
+    "countInStock": 18,
+    "trending": true
+  },
+  {
+    "name": "NV Rejuvenate Overnight Serum",
+    "description": "Powerful clinical nighttime serum enriched with 2.5% encapsulated retinol, multi-peptides, and calming organic chamomile. Accelerates cell turnover overnight, smoothing wrinkles and restoring firmness.",
+    "price": 68,
+    "discount": 15,
+    "images": [
+      "https://images.unsplash.com/photo-1620916566398-39f1143ab7be?q=80&w=800&auto=format&fit=crop"
+    ],
+    "category": "Beauty",
+    "sizes": ["50ml"],
+    "colors": ["Indigo-Opaque"],
+    "rating": 4.7,
+    "numReviews": 54,
+    "countInStock": 25,
+    "trending": false
+  },
+  {
+    "name": "NV Elite Italian Oxford Shoes",
+    "description": "Crafted from hand-burnished, full-grain Italian calfskin leather. Showcases traditional close-lacing styling and durable double-stitched Goodyear welted leather soles. Epitome of formal corporate luxury.",
+    "price": 220,
+    "discount": 10,
+    "images": [
+      "https://images.unsplash.com/photo-1533867617858-e7b97e060509?q=80&w=800&auto=format&fit=crop"
+    ],
+    "category": "Shoes",
+    "sizes": ["8", "9", "10", "11"],
+    "colors": ["Mahogany", "Classic-Black"],
+    "rating": 4.9,
+    "numReviews": 39,
+    "countInStock": 12,
+    "trending": true
+  },
+  {
+    "name": "NV Aero Pace Sport Sneakers",
+    "description": "High-performance dynamic running shoes structured with impact-absorbing responsive nitrogen-infused foam mid-soles, breathable woven knit mesh, and maximum grip rubber outer tracks.",
+    "price": 115,
+    "discount": 0,
+    "images": [
+      "https://images.unsplash.com/photo-1542291026-7eec264c27ff?q=80&w=800&auto=format&fit=crop"
+    ],
+    "category": "Shoes",
+    "sizes": ["8", "9", "10", "11"],
+    "colors": ["Red", "Neon-Volt", "Midnight-Blue"],
+    "rating": 4.6,
+    "numReviews": 89,
+    "countInStock": 40,
+    "trending": false
+  },
+  {
+    "name": "NV Sienna Chunky Suede Boots",
+    "description": "Beautiful modern ladies boots structured in weather-treated soft premium split-suede leather. Features sturdy 2-inch block heels, cushioned insoles, and secure elastic side gussets.",
+    "price": 160,
+    "discount": 15,
+    "images": [
+      "https://images.unsplash.com/photo-1520639888713-7851133b1ed0?q=80&w=800&auto=format&fit=crop"
+    ],
+    "category": "Shoes",
+    "sizes": ["6", "7", "8", "9"],
+    "colors": ["Tan", "Taupe", "Espresso"],
+    "rating": 4.7,
+    "numReviews": 45,
+    "countInStock": 15,
+    "trending": true
+  },
+  {
+    "name": "NV Chronos Gold-Rimmed Watch",
+    "description": "Exquisite wristwatch powered by Swiss quartz movement. Encased in scratch-proof sapphire crystal glass, detailed with an 18K gold-plated bezel, and secure alligator-embossed genuine leather bands.",
+    "price": 350,
+    "discount": 10,
+    "images": [
+      "https://images.unsplash.com/photo-1522312346375-d1a52e2b99b3?q=80&w=800&auto=format&fit=crop"
+    ],
+    "category": "Accessories",
+    "sizes": ["One-Size"],
+    "colors": ["Gold-Brown", "Gold-Black"],
+    "rating": 4.9,
+    "numReviews": 61,
+    "countInStock": 10,
+    "trending": true
+  },
+  {
+    "name": "NV Riviera Aviator Sunglasses",
+    "description": "Chic, timeless aviator sunglasses fitted with protective 100% UVA/UVB polarized dark lenses, premium featherweight titanium wireframes, and soft adjustable silicone nose grips.",
+    "price": 120,
+    "discount": 0,
+    "images": [
+      "https://images.unsplash.com/photo-1511499767150-a48a237f0083?q=80&w=800&auto=format&fit=crop"
+    ],
+    "category": "Accessories",
+    "sizes": ["Standard"],
+    "colors": ["Gold", "Silver", "Matte-Black"],
+    "rating": 4.8,
+    "numReviews": 95,
+    "countInStock": 25,
+    "trending": true
+  },
+  {
+    "name": "NV Sovereign Leather Belt",
+    "description": "Reversible 2-in-1 leather belt crafted from full-grain saddle leather. Finished with a satin-brushed gunmetal rotatable buckle clasp. A versatile accessory matching formal and casual looks.",
+    "price": 60,
+    "discount": 0,
+    "images": [
+      "https://images.unsplash.com/photo-1624222247344-550fb8ecf7db?q=80&w=800&auto=format&fit=crop"
+    ],
+    "category": "Accessories",
+    "sizes": ["32", "34", "36", "38"],
+    "colors": ["Tan-Black", "Brown-Grey"],
+    "rating": 4.7,
+    "numReviews": 33,
+    "countInStock": 30,
+    "trending": false
+  }
+]
