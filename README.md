@@ -1,6 +1,6 @@
  NV Vogue
 
-**NV Vogue** is an ultra-premium, full-stack, AI-powered fashion eCommerce website. Designed with a luxury, modern brand identity (crimson, gold, and glassmorphism styling) to replicate international haute couture portals. It features secure user authorization, persistent shopping baskets, address profiles, detailed timelines for order dispatching, administrative dashboards, and a smart, conversational AI Fashion Assistant widget ("NV Stylist") that matches your catalog items directly in real time.
+NV Vogue is an ultra-premium, full-stack, AI-powered fashion eCommerce website. Designed with a luxury, modern brand identity (crimson, gold, and glassmorphism styling) to replicate international haute couture portals. It features secure user authorization, persistent shopping baskets, address profiles, detailed timelines for order dispatching, administrative dashboards, and a smart, conversational AI Fashion Assistant widget ("NV Stylist") that matches your catalog items directly in real time.
 
  Architectural Layout Blueprint
 
